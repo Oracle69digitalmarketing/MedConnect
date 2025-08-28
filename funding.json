@@ -5,7 +5,7 @@
     "role": "maintainer",
     "name": "Prince Adewumi Adewale",
     "email": "adewaleadewumi@oracle69.com",
-    "description": "A digital strategist and developer focused on building intelligent, scalable solutions that merge technology and health to drive growth and access in underserved and rural markets. This work is built on FOSS principles.",
+    "description": "A digital strategist and developer focused on building scalable, intelligent platforms. We merge tech, marketing, and agriculture to drive growth, especially in underserved and rural markets. This work is built on FOSS principles.",
     "webpageUrl": {
       "url": "https://oracle69.com",
       "wellKnown": "https://oracle69.com/.well-known/funding-manifest-urls"
@@ -15,7 +15,7 @@
     {
       "guid": "medconnect",
       "name": "MedConnect",
-      "description": "An open-source healthtech platform that provides healthcare management and AI diagnostics to improve health access and data-driven care in rural communities.",
+      "description": "An open-source healthtech platform that provides AI diagnostics and patient management to improve health access and data-driven care in rural communities.",
       "webpageUrl": {
         "url": "https://oracle69.com/medconnect",
         "wellKnown": "https://oracle69.com/.well-known/funding-manifest-urls"
@@ -50,7 +50,7 @@
         "guid": "medconnect-general-support",
         "status": "active",
         "name": "General MedConnect Support",
-        "description": "A recurring contribution to cover essential operational costs like server hosting and core maintenance specifically for the MedConnect project.",
+        "description": "A recurring contribution to cover essential operational costs like server hosting and maintenance for the MedConnect project.",
         "amount": 0,
         "currency": "USD",
         "frequency": "monthly",
@@ -62,7 +62,7 @@
         "guid": "medconnect-ai-grant",
         "status": "active",
         "name": "AI Model Development Grant",
-        "description": "A strategic one-time grant to accelerate the development and training of new AI diagnostic models for early disease detection.",
+        "description": "A one-time grant to accelerate the development and training of new AI diagnostic models for early disease detection.",
         "amount": 15000,
         "currency": "USD",
         "frequency": "one-time",
