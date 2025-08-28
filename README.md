@@ -1,30 +1,36 @@
-# Medconnect support
+​# MedConnect
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+​Your Healthtech Bridge to Rural Communities.
+​[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/prince-adewumi-adewale/medconnect)
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/oracle69/v0-medconnect-support)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/hIehIXCaJs3)
+​## Overview
 
-## Overview
+​**MedConnect** is an open-source healthtech platform designed to improve healthcare access in rural and underserved communities. By combining **AI diagnostics** with intuitive patient management tools, we empower local health providers and connect people to critical health resources. Our mission is to build a reliable, accessible healthcare system for those who need it most.
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+​## Key Features
 
-## Deployment
+​AI Diagnostics: Provide data-driven insights for common health conditions in low-resource settings.
 
-Your project is live at:
+​Patient Management: A secure, intuitive system for health workers to track patient records and appointments.
 
-**[https://vercel.com/oracle69/v0-medconnect-support](https://vercel.com/oracle69/v0-medconnect-support)**
+​Health Resource Mapping: Connect users to nearby clinics, pharmacies, and essential health services.
 
-## Build your app
+​Teleconsultation: Facilitate remote consultations with specialists to expand access beyond physical clinics.
 
-Continue building your app on:
+​## Get Started
 
-**[https://v0.dev/chat/projects/hIehIXCaJs3](https://v0.dev/chat/projects/hIehIXCaJs3)**
+​MedConnect is an active FOSS project. We welcome developers and healthcare professionals to explore our code and contribute to this vital mission.
 
-## How It Works
+​**[Live Demo](https://oracle69.com/medconnect)**
 
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+**[Vercel Deployment](https://vercel.com/prince-adewumi-adewale/medconnect)**
+
+**[GitHub Repository](https://github.com/Oracle69digitalmarketing/MedConnect)**
+
+​## Contributing
+
+​Your contributions can help us bridge the healthcare gap. We welcome all contributions, from code and bug reports to documentation and design. Please see our [Contributing Guide](CONTRIBUTING.md) for more details.
+
+​## Support Our Work
+
+​Your financial support helps us maintain the project and accelerate development. Consider making a one-time or recurring contribution through our Open Collective page.
