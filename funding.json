@@ -1,0 +1,76 @@
+{
+  "version": "v1.0.0",
+  "entity": {
+    "type": "individual",
+    "role": "maintainer",
+    "name": "Prince Adewumi Adewale",
+    "email": "adewaleadewumi@oracle69.com",
+    "description": "A digital strategist and developer focused on building intelligent, scalable solutions that merge technology and health to drive growth and access in underserved and rural markets. This work is built on FOSS principles.",
+    "webpageUrl": {
+      "url": "https://oracle69.com",
+      "wellKnown": "https://oracle69.com/.well-known/funding-manifest-urls"
+    }
+  },
+  "projects": [
+    {
+      "guid": "medconnect",
+      "name": "MedConnect",
+      "description": "An open-source healthtech platform that provides healthcare management and AI diagnostics to improve health access and data-driven care in rural communities.",
+      "webpageUrl": {
+        "url": "https://oracle69.com/medconnect",
+        "wellKnown": "https://oracle69.com/.well-known/funding-manifest-urls"
+      },
+      "repositoryUrl": {
+        "url": "https://github.com/Oracle69digitalmarketing/MedConnect",
+        "wellKnown": "https://oracle69.com/.well-known/funding-manifest-urls"
+      },
+      "licenses": [
+        "spdx:MIT",
+        "spdx:AGPL-3.0"
+      ],
+      "tags": [
+        "healthtech",
+        "ai",
+        "diagnostics",
+        "rural-health"
+      ]
+    }
+  ],
+  "funding": {
+    "channels": [
+      {
+        "guid": "open-collective",
+        "type": "payment-provider",
+        "address": "https://opencollective.com/oracle69-projects",
+        "description": "Support our collection of FOSS projects through our Open Collective page. All funds are publicly accounted for and directly support project growth and maintenance."
+      }
+    ],
+    "plans": [
+      {
+        "guid": "medconnect-general-support",
+        "status": "active",
+        "name": "General MedConnect Support",
+        "description": "A recurring contribution to cover essential operational costs like server hosting and core maintenance specifically for the MedConnect project.",
+        "amount": 0,
+        "currency": "USD",
+        "frequency": "monthly",
+        "channels": [
+          "open-collective"
+        ]
+      },
+      {
+        "guid": "medconnect-ai-grant",
+        "status": "active",
+        "name": "AI Model Development Grant",
+        "description": "A strategic one-time grant to accelerate the development and training of new AI diagnostic models for early disease detection.",
+        "amount": 15000,
+        "currency": "USD",
+        "frequency": "one-time",
+        "channels": [
+          "open-collective"
+        ]
+      }
+    ],
+    "history": []
+  }
+}
